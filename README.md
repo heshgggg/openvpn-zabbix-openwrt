@@ -1,7 +1,5 @@
 # openvpn-zabbix-openwrt
 
-The scripts are intended for monitoring openvpn in OpenWrt router
-
 ![data](img1.png)
 
 Latest Data Sections
